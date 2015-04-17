@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dotnetholdem", "dotnetholdem\dotnetholdem.vcxproj", "{AC9135D2-9C77-41E4-BB36-81600D7F0812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetBotLogic", "DotNetBotLogic\DotNetBotLogic.csproj", "{84C2D71F-9C62-4E3E-96CF-F90EB9643075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9135D2-9C77-41E4-BB36-81600D7F0812}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{AC9135D2-9C77-41E4-BB36-81600D7F0812}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{AC9135D2-9C77-41E4-BB36-81600D7F0812}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC9135D2-9C77-41E4-BB36-81600D7F0812}.Debug|Win32.Build.0 = Debug|Win32
+		{AC9135D2-9C77-41E4-BB36-81600D7F0812}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC9135D2-9C77-41E4-BB36-81600D7F0812}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{AC9135D2-9C77-41E4-BB36-81600D7F0812}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{AC9135D2-9C77-41E4-BB36-81600D7F0812}.Release|Win32.ActiveCfg = Release|Win32
+		{AC9135D2-9C77-41E4-BB36-81600D7F0812}.Release|Win32.Build.0 = Release|Win32
+		{AC9135D2-9C77-41E4-BB36-81600D7F0812}.Release|x86.ActiveCfg = Release|Win32
+		{84C2D71F-9C62-4E3E-96CF-F90EB9643075}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{84C2D71F-9C62-4E3E-96CF-F90EB9643075}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{84C2D71F-9C62-4E3E-96CF-F90EB9643075}.Debug|Win32.ActiveCfg = Debug|x86
+		{84C2D71F-9C62-4E3E-96CF-F90EB9643075}.Debug|x86.ActiveCfg = Debug|x86
+		{84C2D71F-9C62-4E3E-96CF-F90EB9643075}.Debug|x86.Build.0 = Debug|x86
+		{84C2D71F-9C62-4E3E-96CF-F90EB9643075}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{84C2D71F-9C62-4E3E-96CF-F90EB9643075}.Release|Mixed Platforms.Build.0 = Release|x86
+		{84C2D71F-9C62-4E3E-96CF-F90EB9643075}.Release|Win32.ActiveCfg = Release|x86
+		{84C2D71F-9C62-4E3E-96CF-F90EB9643075}.Release|x86.ActiveCfg = Release|x86
+		{84C2D71F-9C62-4E3E-96CF-F90EB9643075}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = 
+	EndGlobalSection
+EndGlobal

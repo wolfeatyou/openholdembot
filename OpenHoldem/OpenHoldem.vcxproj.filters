@@ -717,9 +717,6 @@
     <ClCompile Include="CSymbolEngineColourCodes.cpp">
       <Filter>Source Files\Symbols\Symbol_Engines</Filter>
     </ClCompile>
-    <ClCompile Include="DialogSAPrefs9.cpp">
-      <Filter>Source Files\GUI\Unused_might_be_recycled</Filter>
-    </ClCompile>
     <ClCompile Include="SLimitInfo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

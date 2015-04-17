@@ -1,0 +1,6 @@
+C:\projects\GIT\OpenHoldemWithCSharp\DotNetBotLogic\bin\Debug\DotNetBotLogic.dll
+C:\projects\GIT\OpenHoldemWithCSharp\DotNetBotLogic\bin\Debug\DotNetBotLogic.pdb
+C:\projects\GIT\OpenHoldemWithCSharp\DotNetBotLogic\obj\x86\Debug\DotNetBotLogic.Properties.Resources.resources
+C:\projects\GIT\OpenHoldemWithCSharp\DotNetBotLogic\obj\x86\Debug\DotNetBotLogic.csproj.GenerateResource.Cache
+C:\projects\GIT\OpenHoldemWithCSharp\DotNetBotLogic\obj\x86\Debug\DotNetBotLogic.dll
+C:\projects\GIT\OpenHoldemWithCSharp\DotNetBotLogic\obj\x86\Debug\DotNetBotLogic.pdb

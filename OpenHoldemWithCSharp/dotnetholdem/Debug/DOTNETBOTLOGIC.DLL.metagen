@@ -1,0 +1,64 @@
+  DotNetBotLogic.Properties.Resources.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly DotNetBotLogic, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Struct DotNetBotLogic.Classes.Symbol: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    DotNetBotLogic.Classes.Symbol C = 1 : Public, Static, Literal, HasDefault
+    DotNetBotLogic.Classes.Symbol D = 2 : Public, Static, Literal, HasDefault
+    DotNetBotLogic.Classes.Symbol H = 3 : Public, Static, Literal, HasDefault
+    DotNetBotLogic.Classes.Symbol S = 4 : Public, Static, Literal, HasDefault
+Class DotNetBotLogic.MainController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(IntPtr, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    DotNetBotLogic.Classes.managed_holdem_state mhs 'get set' : 
+  Methods:
+    get_mhs(): PrivateScope, Public, Static, HideBySig, SpecialName
+    ProcessQuery(String): PrivateScope, Public, HideBySig
+    UpdateState(IntPtr): PrivateScope, Public, HideBySig
+    RefreshGlobalVar(): PrivateScope, Public, HideBySig
+Struct DotNetBotLogic.Classes.managed_holdem_player: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Fields:
+    System.String m_name : Public, HasFieldMarshal
+    Double m_balance : Public
+    Double m_currentbet : Public
+    Byte[] m_cards : Public, HasFieldMarshal
+    Byte m_is_known : Public
+    Byte m_fillerbyte : Public
+  Properties:
+    Boolean NameKnown 'get ' : 
+    Boolean BalanceKnown 'get ' : 
+  Methods:
+    get_NameKnown(): PrivateScope, Public, HideBySig, SpecialName
+    get_BalanceKnown(): PrivateScope, Public, HideBySig, SpecialName
+Struct DotNetBotLogic.Classes.managed_holdem_state: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Fields:
+    System.String m_title : Public, HasFieldMarshal
+    Double[] m_pot : Public, HasFieldMarshal
+    Byte[] m_cards : Public, HasFieldMarshal
+    Byte m_playing_bits : Public
+    Byte m_fillerbyte : Public
+    Byte m_dealer_chair : Public
+    DotNetBotLogic.Classes.managed_holdem_player[] m_player : Public, HasFieldMarshal
+  Properties:
+    Boolean IsPlaying 'get ' : 
+    Boolean IsPosting 'get ' : 
+  Methods:
+    get_IsPlaying(): PrivateScope, Public, HideBySig, SpecialName
+    get_IsPosting(): PrivateScope, Public, HideBySig, SpecialName
+Class DotNetBotLogic.Classes.Odds: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Odds_and_Outs(): PrivateScope, Public, Static, HideBySig
+    PotOdds(): PrivateScope, Public, Static, HideBySig
+    OutOdds(): PrivateScope, Public, Static, HideBySig

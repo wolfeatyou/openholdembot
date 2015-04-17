@@ -1,0 +1,139 @@
+##2012-12-11 15:31:48##
+
+##notes##
+
+
+##dll##
+
+
+##bankroll##
+0.000000
+
+##defcon##
+0.000000
+
+##rake##
+0.000000
+
+##nit##
+6000
+
+##f$alli##
+0
+
+##f$swag##
+dll$swag
+
+##f$srai##
+dll$srai
+
+##f$rais##
+
+
+##f$call##
+dll$call
+
+##f$prefold##
+0
+
+##f$rebuy##
+
+
+##f$delay##
+
+
+##f$chat##
+
+
+##f$P##
+2
+
+##f$play##
+-1
+
+##f$test##
+
+
+##f$debug##
+0
+         
+
+##f$evrais##
+0  
+
+##f$evcall##
+0 
+
+##list900##
+22  33  44  55  66  77  88  99  TT  JJ  QQ  KK  AA  
+A2S A3S A4S A5S A6S A7S A8S A9S ATS AJS AQS AKS  
+K2S K3S K4S K5S K6S K7S K8S K9S KTS KJS KQS  
+Q2S Q3S Q4S Q5S Q6S Q7S Q8S Q9S QTS QJS  
+J6S J7S J8S J9S JTS  
+T5S T6S T7S T8S T9S  
+95S 96S 97S 98S  
+85S 86S 87S  
+75S 76S  
+64S 65S  
+54S  
+43S  
+32S  
+2A  3A  4A  5A  6A  7A  8A  9A  TA  JA  QA  KA  
+2K  3K  4K  5K  6K  7K  8K  9K  TK  JK  QK  
+2Q  3Q  4Q  5Q  6Q  7Q  8Q  9Q  TQ  JQ  
+7J  8J  9J  TJ
+7T  8T  9T  
+79  89  
+78  
+67  
+
+##list01##
+66  77  88  99  TT  JJ  QQ  KK  AA  
+ATS AJS AQS AKS KQS QJS JTS  
+JA  QA  KA
+
+##list02##
+22  33  44  55  66  77  88  99  TT  JJ  QQ  KK  AA  
+A9S ATS AJS AQS AKS  
+KTS KJS KQS  
+QJS  
+JTS  
+T9S  
+98S  
+TA  JA  QA  KA  
+JK  QK  
+
+##list05##
+22  33  44  55  66  77  88  99  TT  JJ  QQ  KK  AA  
+A2S A3S A4S A5S A6S A7S A8S A9S ATS AJS AQS AKS  
+K8S K9S KTS KJS KQS  
+Q9S QTS QJS  
+J8S J9S JTS  
+T8S T9S  
+97S 98S  
+87S  
+76S  
+65S  
+54S  
+8A  9A  TA  JA  QA  KA  
+9K  TK  JK  QK  
+TQ  JQ  
+TJ  
+
+##list07##
+22  33  44  55  66  77  88  99  TT  JJ  QQ  KK  AA  
+A2S A3S A4S A5S A6S A7S A8S A9S ATS AJS AQS AKS  
+K7S K8S K9S KTS KJS KQS  
+Q8S Q9S QTS QJS  
+J8S J9S JTS  
+T7S T8S T9S  
+96S 97S 98S  
+86S 87S  
+75S 76S  
+64S 65S  
+54S  
+5A  6A  7A  8A  9A  TA  JA  QA  KA  
+9K  TK  JK  QK  
+9Q  TQ  JQ  
+9J  TJ  
+9T  
